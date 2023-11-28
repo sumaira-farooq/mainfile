@@ -10,6 +10,7 @@ namespace HelloWorld
             to the screen, and it is amazing */
             Console.WriteLine("Hello World!");
             Console.ReadKey();
+            console.ReadLine()
         }
     }
 }
